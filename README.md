@@ -1,3 +1,3 @@
-##my-website
+## My-Website
 
 This is an AWESOME webiste
