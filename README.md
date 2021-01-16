@@ -11,3 +11,6 @@ An update before rebase
 ## Repository Purpose
 
 Just a readme file.
+
+
+Learning GIT is funnn
